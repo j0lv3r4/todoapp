@@ -1,6 +1,6 @@
-#[Todo App](http://juanolvera.com/todoapp/ "Todo App")
+#[Todo app](http://juanolvera.com/todoapp/ "Todo app")
 
-A Tiny jQuery Todo App
+made with jQuery
 
 ![TodoScreenShoot](https://github.com/thinkxl/todoapp/blob/master/img/todoapp.png?raw=true)
 
