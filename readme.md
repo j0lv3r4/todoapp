@@ -9,5 +9,5 @@ I did it just for practice, I'm not a jQuery hacker even if you see the code is 
 I want to learn [AngularJS](http://angularjs.org/) and [BackboneJS](http://backbonejs.org/)... so when I was googling I found [TodoMVC](http://addyosmani.github.com/todomvc/) that is basically a repository of the same TodoApp made up by each JavaScript Framework or Library... or almost most of them.
 
 ## TODO: ##
-- Add a double click edit function on each task.
-- Add a 's' on "# task left" when are more than 1 task. (1 task left, 2 tasks left)
+- Add localStorage stuff.
+- focusOut function that 'contentEditable','false' current task
