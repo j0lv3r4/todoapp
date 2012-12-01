@@ -2,7 +2,7 @@
 
 A Tiny jQuery Todo App
 
-![TodoScreenShoot](https://github.com/thinkxl/TodoApp-/blob/master/img/todo.jpg?raw=true)
+![TodoScreenShoot](https://github.com/thinkxl/todoapp/blob/master/img/todo.png?raw=true)
 
 I did it just for practice, I'm not a jQuery hacker even if you see the code is very primitive, maybe you can do it 1000 times better, but I wanted to do this only for educative proposits with HTML5, CSS3 and jQuery.
 
