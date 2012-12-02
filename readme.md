@@ -1,4 +1,4 @@
-#[Todo app](http://juanolvera.com/todoapp/ "Todo app")
+#[Todo app, live demo](http://thinkxl.github.com/todoapp/ "Todo app, live demo")
 
 made with jQuery
 
